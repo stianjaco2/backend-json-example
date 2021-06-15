@@ -1,4 +1,11 @@
 {
+  "Facedetection": {
+    "personUuid":"string",
+    "name": "string",
+    "banReason": "string",
+    "bannedFrom": "date",
+    "bannedTo": "date"
+  },
   "Post": {
     "title": "string",
     "views": "int",
