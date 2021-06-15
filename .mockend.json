@@ -1,6 +1,6 @@
 {
   "Facedetection": {
-    "data": "Facedetections"
+    "data": "Facedetections[]"
   },
   "Facedetections": {
     "personUuid":"string",
