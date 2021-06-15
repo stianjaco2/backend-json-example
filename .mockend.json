@@ -1,5 +1,8 @@
 {
   "Facedetection": {
+    "data": "Facedetections"
+  },
+  "Facedetections": {
     "personUuid":"string",
     "name": "string",
     "banReason": "string",
